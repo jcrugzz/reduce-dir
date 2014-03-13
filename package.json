@@ -1,0 +1,15 @@
+{
+  "name": "reduce-dir",
+  "version": "0.0.0",
+  "description": "Reduce a directory into a complete object",
+  "main": "index.js",
+  "dependencies": {
+    "async": "~0.2.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jarrett Cruger <jcrugzz@gmail.com>",
+  "license": "MIT"
+}
