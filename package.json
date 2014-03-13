@@ -1,6 +1,6 @@
 {
   "name": "reduce-dir",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Reduce a directory into a complete object",
   "main": "index.js",
   "dependencies": {
